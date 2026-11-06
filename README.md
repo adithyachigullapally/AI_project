@@ -1,4 +1,6 @@
-# Adil_OptimalSnakeAI
+# AI_project
+
+Algorithms 1–8 and the browser workbench are by [adiltemp908-cyber](https://github.com/adiltemp908-cyber), from [Adil_OptimalSnakeAI](https://github.com/adiltemp908-cyber/Adil_OptimalSnakeAI). Algorithm 9, Lanekeeper, was added in this repository.
 
 **The aim is trying to develop a algorithm with the least average moves that can complete the board 100% of the time. The approach followed for this is simple. First priority is the algorithms should complete the board 100% of the time. So first we used Hamiltonian cycle then the next algorithm should retain the garanteed completion while the tweaks made is aimed to reduce average moves. I continued this and greedy+certified hybrid(6th algorithm) was the best performing and then the later two algorithms performed worse.**
 
@@ -34,8 +36,8 @@ Every running algorithm advances exactly once per 0.1 seconds, with no speed ram
 Install Node.js 22 or newer, then:
 
 ```sh
-git clone https://github.com/adiltemp908-cyber/Adil_OptimalSnakeAI.git
-cd Adil_OptimalSnakeAI
+git clone https://github.com/adithyachigullapally/AI_project.git
+cd AI_project
 npm start
 ```
 
